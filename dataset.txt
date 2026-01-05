@@ -1,0 +1,10 @@
+Technology is changing the world faster than ever before. Developers build tools that help people communicate, work, and solve real problems in their daily lives.
+Artificial intelligence is not magic, it is just math plus data and a lot of compute power. When we understand the basics, complex systems start feeling simple and logical.
+Learning to code is like learning a new language, but instead of talking to people, you talk to computers and ask them to perform tasks for you.
+Good software is not only about features, it is also about user experience, clear design, and reliable performance under real-world conditions.
+Open source projects allow developers from different parts of the world to collaborate, share ideas, and improve tools together.
+A small side project can become a big startup if it solves a real problem and reaches enough people at the right time.
+Writing clean code today saves hours of debugging and confusion in the future. Future you will always thank present you for good comments and clear structure.
+Every bug is an opportunity to learn something new about the system, the tools, or your own thought process as a developer.
+Consistency beats intensity when learning new skills. Studying a little bit every day is more powerful than working only once in a while.
+Documenting a project is as important as writing the code itself, because other people need to understand how to use, run, and extend it.
