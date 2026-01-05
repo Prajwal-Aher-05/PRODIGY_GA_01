@@ -1,20 +1,21 @@
-# PRODIGY Task 1: GPT-2 Text Generation
+# 🚀 PRODIGY Task 1: GPT-2 Text Generator (GA_01)
 
 ## 🎯 Objective
-Fine-tuned GPT-2 model to generate coherent tech/development text from prompts.
-
-## 📁 Files
-- Prodigy_Task1_GPT2.ipynb (Complete Colab notebook)
-- dataset.txt (Custom training data)
-
-## 🚀 Live Demo
-[Try the app](https://ecddbb64867b06a42a.gradio.live)
+Fine-tuned GPT2 model to generate coherent tech/development text in custom style.
 
 ## 📊 Results
-- Base GPT-2: "Technology is changing the way..."
-- Fine-tuned: "Technology is changing the way we think..." (dataset style!)
+**Prompt:** "Technology is changing"  
+**Fine-tuned Output:** "Technology is changing the way we think..."  
 
-## Tech Stack
+## 🔗 Live Demo
+[![Try GPT2 Demo](https://ecddbb64867b06a42a.gradio.live)](https://ecddbb64867b06a42a.gradio.live)
+
+## 🛠️ Tech Stack
 - Hugging Face Transformers
-- PyTorch
-- Gradio
+- PyTorch  
+- Gradio Interface
+- Google Colab (T4 GPU)
+
+## 📁 Files
+- `Prodigy_Task1_GPT2.ipynb` - Complete training + demo
+- `dataset.txt` - Custom training data
